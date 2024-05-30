@@ -1,4 +1,4 @@
-Nama : Hiadar Dzaky Musyaffa
+Nama : Haidar Dzaky Musyaffa
 NIM : L0122070
 
 <!---
